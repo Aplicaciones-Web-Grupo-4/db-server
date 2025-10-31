@@ -8,5 +8,6 @@
     { "id": 2, "name": "Carlos Pérez", "category": "Gastronomía", "fairId": 2, "code": "B1" }
   ],
   "events": [],
-  "saved": []
+  "saved": [],
+  "tickets": [] 
 }
