@@ -3,5 +3,7 @@
   "stands": [],
   "events": [],
   "saved": [],
-  "tickets": [] 
+  "tickets": [],
+  "events": [...],
+  "metrics": []
 }
